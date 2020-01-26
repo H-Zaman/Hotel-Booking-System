@@ -1,0 +1,21 @@
+C:\Users\Taz\Documents\Visual Studio 2015\Projects\hotel management\hotel management\bin\Debug\hotel management.exe.config
+C:\Users\Taz\Documents\Visual Studio 2015\Projects\hotel management\hotel management\obj\Debug\hotel management.exe
+C:\Users\Taz\Documents\Visual Studio 2015\Projects\hotel management\hotel management\obj\Debug\hotel management.pdb
+C:\Users\Taz\Documents\Visual Studio 2015\Projects\hotel management\hotel management\bin\Debug\hotel management.exe
+C:\Users\Taz\Documents\Visual Studio 2015\Projects\hotel management\hotel management\bin\Debug\hotel management.pdb
+C:\Users\Taz\Documents\Visual Studio 2015\Projects\hotel management\hotel management\obj\Debug\hotel management.csprojResolveAssemblyReference.cache
+C:\Users\Taz\Documents\Visual Studio 2015\Projects\hotel management\hotel management\obj\Debug\Home.g.cs
+C:\Users\Taz\Documents\Visual Studio 2015\Projects\hotel management\hotel management\obj\Debug\MainWindow.g.cs
+C:\Users\Taz\Documents\Visual Studio 2015\Projects\hotel management\hotel management\obj\Debug\register.g.cs
+C:\Users\Taz\Documents\Visual Studio 2015\Projects\hotel management\hotel management\obj\Debug\App.g.cs
+C:\Users\Taz\Documents\Visual Studio 2015\Projects\hotel management\hotel management\obj\Debug\hotel management_MarkupCompile.cache
+C:\Users\Taz\Documents\Visual Studio 2015\Projects\hotel management\hotel management\obj\Debug\hotel management_MarkupCompile.lref
+C:\Users\Taz\Documents\Visual Studio 2015\Projects\hotel management\hotel management\obj\Debug\Home.baml
+C:\Users\Taz\Documents\Visual Studio 2015\Projects\hotel management\hotel management\obj\Debug\MainWindow.baml
+C:\Users\Taz\Documents\Visual Studio 2015\Projects\hotel management\hotel management\obj\Debug\register.baml
+C:\Users\Taz\Documents\Visual Studio 2015\Projects\hotel management\hotel management\obj\Debug\hotel management.g.resources
+C:\Users\Taz\Documents\Visual Studio 2015\Projects\hotel management\hotel management\obj\Debug\hotel_management.Properties.Resources.resources
+C:\Users\Taz\Documents\Visual Studio 2015\Projects\hotel management\hotel management\obj\Debug\hotel management.csproj.GenerateResource.Cache
+D:\Documents\Stduy\3rd Year\3.1\Visual Studio projects\final projects\hotel management\hotel management\bin\Debug\hotel management.exe.config
+D:\Documents\Stduy\3rd Year\3.1\Visual Studio projects\final projects\hotel management\hotel management\obj\Debug\hotel management.exe
+D:\Documents\Stduy\3rd Year\3.1\Visual Studio projects\final projects\hotel management\hotel management\obj\Debug\hotel management.pdb
